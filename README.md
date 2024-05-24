@@ -1,3 +1,3 @@
 # firstproject
 This is My First Project
-Author - Neha Desai
+Author - Neha Desai (Neha Desai)
